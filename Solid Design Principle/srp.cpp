@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//-------------------------blueprint fo the product-----------------------------------//
+//-------------------------blueprint of the product for creating diff typr of products-----------------------------------//
 class product{
     public:
     string name;
@@ -8,7 +8,6 @@ class product{
     product(string name, double pri){
         this->name=name;
         this->price=pri;
-
     }
 };
 class shoppingcart{
@@ -65,5 +64,6 @@ int main(){
 
     shoppingclassstorage* storage=new shoppingclassstorage(cart);
     storage->savetodatabase();
+    
     return 0;
 };
