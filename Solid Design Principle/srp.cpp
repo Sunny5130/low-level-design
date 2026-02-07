@@ -1,3 +1,5 @@
+//------------------------------------single responsibility principle---------------------------------------//
+
 #include<bits/stdc++.h>
 using namespace std;
 //-------------------------blueprint of the product for creating diff typr of products-----------------------------------//

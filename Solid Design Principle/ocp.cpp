@@ -1,3 +1,5 @@
+//--------------------------------------open close principle-------------------------------//
+
 #include<bits/stdc++.h>
 using namespace std;
 class discount{
